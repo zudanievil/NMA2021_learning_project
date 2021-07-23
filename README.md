@@ -6,6 +6,6 @@ repo contains materials for group project (group Hydrated Mammals, pod Watery Ca
 
 `HCP_working_memory.ipynb` contains code for the project and was made for google colab
 
-<a href="https://colab.research.google.com/github/zudanievil/NMA2021_learning_project/blob/main/HCP_working_memory.ipynb.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open this notebook in Colab"/></a>
+<a href="https://colab.research.google.com/github/zudanievil/NMA2021_learning_project/blob/main/HCP_working_memory.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open this notebook in Colab"/></a>
 
 `presentation...` contains presentation

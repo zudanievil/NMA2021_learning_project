@@ -8,4 +8,4 @@ repo contains materials for group project (group Hydrated Mammals, pod Watery Ca
 
 <a href="https://colab.research.google.com/github/zudanievil/NMA2021_learning_project/blob/main/HCP_working_memory.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open this notebook in Colab"/></a>
 
-`presentation...` contains presentation
+`presentation...` contains presentation <p>Check out <a href="https://raw.githubusercontent.com/zudanievil/NMA2021_learning_project/main/HCP_working_memory.html" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
